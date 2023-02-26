@@ -1,0 +1,37 @@
+* {
+    font-family: sans-serif;
+}
+
+#grid {
+    display: grid;
+    grid-template-columns: 500px 500px;
+    grid-template-rows: 30vh;
+    align-items: center;
+    justify-items: center;
+}
+
+#first-column {
+    height: auto;
+}
+
+#linkRemove {
+    color: indianred;
+    margin-top: 80px;
+}
+
+#input {
+    border-radius: 5px;
+    border: 1px solid indianred;
+    padding: 10px 50px 10px 10px;
+    margin: 10px 20px 0px 0px;
+}
+
+#btnAdd {
+    color: indianred;
+    background-color: mistyrose;
+    font-weight: bold;
+
+    border-radius: 5px;
+    border: 1px solid indianred;
+    padding: 10px 30px 10px 30px;
+}
