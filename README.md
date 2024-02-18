@@ -1,5 +1,5 @@
 # SpeckEntranceTask
-Entrance task for SPECK Academy - a web page to add and remove items using only HTML, CSS and JS.
+Entrance task for SPECK Academy 2023 - a web page to add and remove items using only HTML, CSS and JS.
 
 ## Task
 
